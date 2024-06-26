@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\unrealprojects\\obstacleassault\\intermediate\\build\\win64\\unrealgame\\inc\\obstacleassault\\uht\\obstacleassault.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\unrealprojects\\obstacleassault\\intermediate\\build\\win64\\x64\\obstacleassault\\debuggame\\engine\\sharedpch.engine.nonoptimized.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\work\\unrealprojects\\obstacleassault\\intermediate\\build\\win64\\x64\\unrealgame\\debuggame\\obstacleassault\\definitions.obstacleassault.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
