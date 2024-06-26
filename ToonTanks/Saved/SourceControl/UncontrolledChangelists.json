@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Work/UnrealProjects/ToonTanks/Content/Maps/Main.umap",
+				"C:/Work/UnrealProjects/ToonTanks/Content/ComponentsActor.uasset",
+				"C:/Work/UnrealProjects/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset",
+				"C:/Work/UnrealProjects/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
+				"C:/Work/UnrealProjects/ToonTanks/Content/Blueprints/Pawns/BP_PawnTower.uasset",
+				"C:/Work/UnrealProjects/ToonTanks/Content/Blueprints/Actors/BP_ActorProjectile.uasset",
+				"C:/Work/UnrealProjects/ToonTanks/Content/Blueprints/GameMode/BP_TanksGameMode.uasset",
+				"C:/Work/UnrealProjects/ToonTanks/Content/Blueprints/PlayerController/BP_TankPlayerController.uasset",
+				"C:/Work/UnrealProjects/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset",
+				"C:/Work/UnrealProjects/ToonTanks/Content/Blueprints/Widgets/WBP_EndGameWidget.uasset",
+				"C:/Work/UnrealProjects/ToonTanks/Content/Blueprints/CameraShake/BP_HitCameraShake.uasset",
+				"C:/Work/UnrealProjects/ToonTanks/Content/Blueprints/CameraShake/BP_DeathCameraShake.uasset",
+				"C:/Work/UnrealProjects/ToonTanks/Content/Blueprints/Widgets/WBP_StatusUi.uasset",
+				"C:/Work/UnrealProjects/ToonTanks/Content/Blueprints/GameMode/TanksGameMode.uasset"
+			]
+		}
+	]
+}
