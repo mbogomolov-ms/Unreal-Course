@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Work\\UnrealProjects\\PrimitiveShooter\\Source\\PrimitiveShooter\\PrimitiveShooter.Build.cs",
+		"C:\\Work\\UnrealProjects\\PrimitiveShooter\\Source\\PrimitiveShooter.Target.cs",
+		"C:\\Work\\UnrealProjects\\PrimitiveShooter\\Source\\PrimitiveShooterEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

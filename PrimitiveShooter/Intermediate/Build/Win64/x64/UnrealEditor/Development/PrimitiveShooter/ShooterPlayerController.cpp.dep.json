@@ -1,0 +1,42 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\unrealprojects\\primitiveshooter\\source\\primitiveshooter\\shooterplayercontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\unrealprojects\\primitiveshooter\\intermediate\\build\\win64\\x64\\primitiveshootereditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\work\\unrealprojects\\primitiveshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\primitiveshooter\\definitions.primitiveshooter.h",
+            "c:\\work\\unrealprojects\\primitiveshooter\\source\\primitiveshooter\\shooterplayercontroller.h",
+            "c:\\work\\unrealprojects\\primitiveshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\primitiveshooter\\uht\\shooterplayercontroller.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\umg\\public\\blueprint\\userwidget.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\umg\\public\\blueprint\\widgetchild.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgetchild.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\objectsavecontext.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\objectsaveoverride.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\umg\\public\\components\\slatewrappertypes.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\slatewrappertypes.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\umg\\public\\components\\widget.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\fieldnotification\\public\\fieldnotificationdeclaration.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\fieldnotification\\public\\ifieldnotificationclassdescriptor.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\fieldnotification\\public\\inotifyfieldvaluechanged.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\fieldnotification\\uht\\inotifyfieldvaluechanged.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\umg\\public\\components\\visual.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\visual.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\umg\\public\\slate\\widgettransform.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgettransform.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\umg\\public\\blueprint\\widgetnavigation.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\slatecore\\public\\types\\navigationmetadata.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgetnavigation.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widget.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\umg\\public\\components\\namedslotinterface.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\namedslotinterface.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\slate\\public\\widgets\\layout\\anchors.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\slate\\uht\\anchors.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\umg\\public\\animation\\widgetanimationevents.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgetanimationevents.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\userwidget.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\unrealprojects\\primitiveshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\primitiveshooter\\uht\\mypawn.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\unrealprojects\\primitiveshooter\\intermediate\\build\\win64\\x64\\primitiveshootereditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\work\\unrealprojects\\primitiveshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\primitiveshooter\\definitions.primitiveshooter.h",
+            "c:\\work\\unrealprojects\\primitiveshooter\\source\\primitiveshooter\\mypawn.h",
+            "c:\\work\\unrealprojects\\primitiveshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\primitiveshooter\\uht\\mypawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

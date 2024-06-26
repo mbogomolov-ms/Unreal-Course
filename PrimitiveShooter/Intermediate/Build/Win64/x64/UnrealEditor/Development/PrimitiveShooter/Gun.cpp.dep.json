@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\unrealprojects\\primitiveshooter\\source\\primitiveshooter\\gun.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\unrealprojects\\primitiveshooter\\intermediate\\build\\win64\\x64\\primitiveshootereditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\work\\unrealprojects\\primitiveshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\primitiveshooter\\definitions.primitiveshooter.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\damageevents.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\damageevents.generated.h",
+            "c:\\work\\unrealprojects\\primitiveshooter\\source\\primitiveshooter\\gun.h",
+            "c:\\work\\unrealprojects\\primitiveshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\primitiveshooter\\uht\\gun.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

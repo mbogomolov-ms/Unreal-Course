@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PrimitiveShooter",
+			"Path": "..\\Source\\PrimitiveShooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PrimitiveShooterEditor",
+			"Path": "..\\Source\\PrimitiveShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

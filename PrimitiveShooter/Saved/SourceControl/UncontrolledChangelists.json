@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/CollectionMaps/Map1.umap",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/Blueprints/MyPawn.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/Sandbox.umap",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/Blueprints/BP_ShooterCharacter.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/BP_ShooterGameMode.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Stairs_A1.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/ABP_ShooterCharacter.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/BS_Locomotion.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Animations/Jog_Fwd.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/BP_Gun.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Meshes/Wraith_Skeleton.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/AssetPacks/ShooterGame/Weapons/Rifle.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/AI/BP_ShooterAIController.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/AI/BT_EnemyAI.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/AI/BB_EnemyAI.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/BP_KillThemAllGameMode.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/BP_ShooterPlayerController.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/UI/WBP_LoseScreen.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/UI/WBP_WinScreen.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/AssetPacks/ShooterGame/Sounds/Weapon_AssaultRifle/Mono/AssaultRifle_Shot01.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/SFX/A_GunShot_Cue.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/SFX/A_ShootImpact_Cue.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/SFX/ATT_Default.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/UI/WBP_HUD.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/Blueprints/BP_PlayerShooterCharacter.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/BP_ShooterAIController.uasset",
+				"C:/Work/UnrealProjects/PrimitiveShooter/Content/Blueprints/ShooterCharacter.uasset"
+			]
+		}
+	]
+}

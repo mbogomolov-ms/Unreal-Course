@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PrimitiveShooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PrimitiveShooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PrimitiveShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PrimitiveShooter">
+      <UniqueIdentifier>{21486ECF-CC76-3BBE-87AC-AFBF2FAF7BEC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PrimitiveShooter\BTService_PlayerLocation.cpp">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimitiveShooter\BTService_PlayerLocation.h">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimitiveShooter\BTService_PlayerLocationIfSeen.cpp">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimitiveShooter\BTService_PlayerLocationIfSeen.h">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimitiveShooter\BTTask_ClearBlackboardValue.cpp">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimitiveShooter\BTTask_ClearBlackboardValue.h">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimitiveShooter\BTTask_Shoot.cpp">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimitiveShooter\BTTask_Shoot.h">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimitiveShooter\Gun.cpp">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimitiveShooter\Gun.h">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimitiveShooter\KillThemAllGameMode.cpp">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimitiveShooter\KillThemAllGameMode.h">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimitiveShooter\MyPawn.cpp">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimitiveShooter\MyPawn.h">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PrimitiveShooter\PrimitiveShooter.Build.cs">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PrimitiveShooter\PrimitiveShooter.cpp">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimitiveShooter\PrimitiveShooter.h">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimitiveShooter\PrimitiveShooterGameModeBase.cpp">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimitiveShooter\PrimitiveShooterGameModeBase.h">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimitiveShooter\ShooterAIController.cpp">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimitiveShooter\ShooterAIController.h">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimitiveShooter\ShooterCharacter.cpp">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimitiveShooter\ShooterCharacter.h">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrimitiveShooter\ShooterPlayerController.cpp">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrimitiveShooter\ShooterPlayerController.h">
+      <Filter>Source\PrimitiveShooter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
