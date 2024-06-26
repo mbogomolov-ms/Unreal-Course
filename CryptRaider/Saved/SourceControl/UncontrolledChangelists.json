@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Work/UnrealProjects/CryptRaider/Content/Dungeon.umap",
+				"C:/Work/UnrealProjects/CryptRaider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"C:/Work/UnrealProjects/CryptRaider/Content/MedievalDungeon/Blueprints/BP_Chandalier.uasset",
+				"C:/Work/UnrealProjects/CryptRaider/Content/BP_Torch_Dungeon.uasset",
+				"C:/Work/UnrealProjects/CryptRaider/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
+				"C:/Work/UnrealProjects/CryptRaider/Content/BP_Player.uasset",
+				"C:/Work/UnrealProjects/CryptRaider/Content/BP_CryptRaiderGameMode.uasset",
+				"C:/Work/UnrealProjects/CryptRaider/Content/BP_SecretWall.uasset",
+				"C:/Work/UnrealProjects/CryptRaider/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/10/SB8N9EJGIQYSA4F90MJB0G.uasset",
+				"C:/Work/UnrealProjects/CryptRaider/Content/MyMyTestActor.uasset"
+			]
+		}
+	]
+}
