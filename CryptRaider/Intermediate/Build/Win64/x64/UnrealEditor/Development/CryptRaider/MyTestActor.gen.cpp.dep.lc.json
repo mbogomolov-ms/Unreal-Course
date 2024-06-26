@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\mytestactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\x64\\cryptraidereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\work\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\work\\unrealprojects\\cryptraider\\source\\cryptraider\\mytestactor.h",
+            "c:\\work\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\mytestactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

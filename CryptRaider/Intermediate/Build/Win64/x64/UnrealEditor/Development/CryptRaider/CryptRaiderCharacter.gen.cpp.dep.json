@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\cryptraidercharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\x64\\cryptraidereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\work\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\work\\unrealprojects\\cryptraider\\source\\cryptraider\\cryptraidercharacter.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\work\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\work\\unrealprojects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\cryptraidercharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
