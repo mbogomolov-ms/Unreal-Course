@@ -1,4 +1,4 @@
-These projects are the result of complition Unreal Engine course. They hepled me to study different basics of Unreal Engine.
+These projects are the result of completion Unreal Engine course. They helped me to study different basics of Unreal Engine.
 1. WarehouseWreckage - game where i learned Unreal physic basics. You can shoot metal ball and collide with other objects on the scene
 2. Obstacle Assault - platforming game where i created an obstacle course with different moving obstacles and their physic interaction with the player
 3. Crypt Raider - a tiny dungeon puzzle game. Here i studied Unreal lighting system, skybox, interactions with scene objects and collision layers
